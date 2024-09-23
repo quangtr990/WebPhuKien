@@ -1,0 +1,100 @@
+﻿@page
+@model WebPhuKien.Pages.capnhatsanphamModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Product</title>
+    <link rel="stylesheet" href="~/css/style.css"> <!-- Adjust the path to your CSS file -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="/quanly"><img src="images/logo.png" width="125px" alt="RedStore Logo"></a>
+                </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li><a href="/quanly">Trang chủ</a></li>
+                        <li><a href="/danhsachsanpham">Danh Sách Sản Phẩm</a></li>
+                        <li><a href="/danhsachtaikhoan">Danh Sách Tài Khoản</a></li>
+                        <li><a href="/danhsachkhachhang">Danh Sách Khách Hàng</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-2">
+                <h1>Update Product</h1>
+                <form method="post">
+                    <!-- Adjust the action and method according to your ASP.NET Core route -->
+                    <div class="input-group">
+                        <label for="TenSP">Product Name</label>
+                        <input class="form-control" asp-for="Input.TenSP">
+                        <span asp-validation-for="Input.TenSP" class="text-danger"></span>
+                    </div>
+                    <div class="input-group">
+                        <label for="GiaBan">Price</label>
+                        <input class="form-control" asp-for="Input.GiaBan">
+                        <span asp-validation-for="Input.GiaBan" class="text-danger"></span>
+                    </div>
+                    <div class="input-group">
+                        <label for="SoLuongTonKho">Stock Quantity</label>
+                        <input class="form-control" asp-for="Input.SoLuongTonKho">
+                        <span asp-validation-for="Input.SoLuongTonKho" class="text-danger"></span>
+                    </div>
+                    <div class="input-group">
+                        <label for="Color">Color</label>
+                        <input class="form-control" asp-for="Input.Color">
+                        <span asp-validation-for="Input.Color" class="text-danger"></span>
+                    </div>
+                    <div class="input-group">
+                        <label for="Size">Size</label>
+                        <input class="form-control" asp-for="Input.Size">
+                        <span asp-validation-for="Input.Size" class="text-danger"></span>
+                    </div>
+                    <div class="input-group">
+                        <label for="Gender">Gender</label>
+                        <input class="form-control" asp-for="Input.Gender">
+                        <span asp-validation-for="Input.Gender" class="text-danger"></span>
+                    </div>
+                    <div class="input-group">
+                        <label for="HinhAnh">Image URL</label>
+                        <input class="form-control" asp-for="Input.HinhAnh">
+                        <span asp-validation-for="Input.HinhAnh" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn">Update</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer code remains the same -->
+
+    <script>
+        var MenuItems = document.getElementById("MenuItems");
+
+        MenuItems.style.maxHeight = "0px";
+
+        function menutoggle() {
+            if (MenuItems.style.maxHeight == "0px") {
+                MenuItems.style.maxHeight = "200px";
+            } else {
+                MenuItems.style.maxHeight = "0px";
+            }
+        }
+    </script>
+</body>
+</html>

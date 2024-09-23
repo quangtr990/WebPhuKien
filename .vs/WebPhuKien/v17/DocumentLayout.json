@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebDesign\\WebPhuKien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|d:\\webdesign\\webphukien\\webphukien\\pages\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\quanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\quanly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\giohang.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\giohang.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\xoasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\xoasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\xoakhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\xoakhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|D:\\WebDesign\\WebPhuKien\\webphukien\\pages\\xoaaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B0B421E-C262-4487-8ADC-7DD4F4492626}|WebPhuKien\\WebPhuKien.csproj|solutionrelative:webphukien\\pages\\xoaaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "account.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\account.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\account.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\account.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\account.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:37:53.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quanly.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\quanly.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\quanly.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\quanly.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\quanly.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:35:54.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sanpham.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\sanpham.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\sanpham.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\sanpham.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\sanpham.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:49:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "giohang.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\giohang.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\giohang.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\giohang.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\giohang.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAJoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:47:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "giohang.cshtml.cs",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\giohang.cshtml.cs",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\giohang.cshtml.cs",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\giohang.cshtml.cs",
+              "RelativeToolTip": "WebPhuKien\\Pages\\giohang.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:47:55.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "xoaaccount.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\xoaaccount.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\xoaaccount.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\xoaaccount.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\xoaaccount.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:46:50.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "xoasanpham.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\xoasanpham.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\xoasanpham.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\xoasanpham.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\xoasanpham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:46:44.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "xoakhachhang.cshtml",
+              "DocumentMoniker": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\xoakhachhang.cshtml",
+              "RelativeDocumentMoniker": "WebPhuKien\\Pages\\xoakhachhang.cshtml",
+              "ToolTip": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\Pages\\xoakhachhang.cshtml",
+              "RelativeToolTip": "WebPhuKien\\Pages\\xoakhachhang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:46:23.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

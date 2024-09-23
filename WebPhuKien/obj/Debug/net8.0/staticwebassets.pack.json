@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\images\\app-store.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\buy-1.jpg",
+      "PackagePath": "staticwebassets\\images\\buy-1.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\buy-2.jpg",
+      "PackagePath": "staticwebassets\\images\\buy-2.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\buy-3.jpg",
+      "PackagePath": "staticwebassets\\images\\buy-3.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\category-1.jpg",
+      "PackagePath": "staticwebassets\\images\\category-1.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\category-2.jpg",
+      "PackagePath": "staticwebassets\\images\\category-2.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\category-3.jpg",
+      "PackagePath": "staticwebassets\\images\\category-3.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\exclusive.png",
+      "PackagePath": "staticwebassets\\images\\exclusive.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\img-credit.txt",
+      "PackagePath": "staticwebassets\\images\\img-credit.txt"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo-coca-cola.png",
+      "PackagePath": "staticwebassets\\images\\logo-coca-cola.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo-godrej.png",
+      "PackagePath": "staticwebassets\\images\\logo-godrej.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo-oppo.png",
+      "PackagePath": "staticwebassets\\images\\logo-oppo.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo-paypal.png",
+      "PackagePath": "staticwebassets\\images\\logo-paypal.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo-philips.png",
+      "PackagePath": "staticwebassets\\images\\logo-philips.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\play-store.png",
+      "PackagePath": "staticwebassets\\images\\play-store.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\images\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\images\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\images\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\user-1.png",
+      "PackagePath": "staticwebassets\\images\\user-1.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\user-2.png",
+      "PackagePath": "staticwebassets\\images\\user-2.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\images\\user-3.png",
+      "PackagePath": "staticwebassets\\images\\user-3.png"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-3.7.1.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-3.7.1.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WebDesign\\WebPhuKien\\WebPhuKien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebPhuKien.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebPhuKien.props",
+      "PackagePath": "build\\WebPhuKien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebPhuKien.props",
+      "PackagePath": "buildMultiTargeting\\WebPhuKien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebPhuKien.props",
+      "PackagePath": "buildTransitive\\WebPhuKien.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,92 @@
+﻿@page
+@model WebPhuKien.Pages.ListKhachHangModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh Sach Khach Hang</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+        td {
+            text-align: center;
+        }
+    </style>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <a href="/quanly"><img src="images/logo.png" width="125px" alt="RedStore Logo"></a>
+                </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li><a href="/quanly">Trang chủ</a></li>
+                        <li><a href="/danhsachsanpham">Danh Sách Sản Phẩm</a></li>
+                        <li><a href="/danhsachtaikhoan">Danh Sách Tài Khoản</a></li>
+                        <li><a href="/danhsachkhachhang">Danh Sách Khách Hàng</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="row">
+                <!-- --------------- Đưa danh sách Account vào đây --------------- -->
+            </div>
+        </div>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>CCCD</th>
+                <th>Tên khách hàng</th>
+                <th>Email</th>
+                <th>Số điện thoại</th>
+                <th>Địa chỉ</th>
+                <th>Thao tác</th> <!-- Thêm cột thao tác -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var khachHang in Model.lstKhachHang)
+            {
+                <tr>
+                    <td>@khachHang.CCCD</td>
+                    <td>@khachHang.HoVaTen</td>
+                    <td>@khachHang.Email</td>
+                    <td>@khachHang.Phone</td>
+                    <td>@khachHang.DiaChi</td>
+                    <td>
+                        <!-- Nút Xoá -->
+                        <a class="btn btn-primary m-1" href="/xoakhachhang?cccd=@khachHang.CCCD">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <!-- --------------- Đưa danh sách Account vào đây --------------- -->
+    <!-- --------------- Footer --------------- -->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>Coupons</li>
+                        <li>Blog Post</li>
+                        <li>Return Policy</li>
+                        <li>Join Affiliate</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="Copyright">Copyright 2024</p>
+        </div>
+    </div>
+</body>
+</html>
